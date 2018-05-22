@@ -1,3 +1,3 @@
 # darklotus
-How To Use It:-----
+How To Use It:
 bash auto-handshake.sh
